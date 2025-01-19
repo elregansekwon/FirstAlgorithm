@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7b49c880-554a-4f42-ba57-dcc709f63677" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/FirstAlgorithm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-10 binary tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-2 Stack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-7 array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-10 game data searching programming #2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-2 searching information with id.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-5 game data searching programming #1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IdolFanClubManager/fanclub.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IdolFanClubManager/test_fanclub.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IdolFanClubManager/test_fanclub_with_mock.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProject01/15-텍스트마이닝-단어구름.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProject01/16-텍스트마이닝-연관분석이론.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProject01/17-텍스트마이닝-연관분석.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProject01/18-텍스트마이닝-유튜브댓글수집.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProject01/NanumMyeongjoBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonProject01/korean_nouns.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject01/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonProject01/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject01/.idea/pythonProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonProject01/.idea/pythonProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject01/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonProject01/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProject01/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonProject01/test.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2rpryb15yUgyLnnQBk1ovvoPys9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.01-10 binary tree.executor": "Run",
+    "Python.01-2 Stack.executor": "Run",
+    "Python.01-7 array.executor": "Run",
+    "Python.02-2 searching information with id.executor": "Run",
+    "Python.02-5 game data searching programming #1.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b49c880-554a-4f42-ba57-dcc709f63677" name="Changes" comment="" />
+      <created>1737267114406</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1737267114406</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
