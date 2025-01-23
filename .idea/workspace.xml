@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7b49c880-554a-4f42-ba57-dcc709f63677" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/03-12 Stable Sorting Algorithm.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../IdolFanClubManager/fanclub.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../IdolFanClubManager/test_fanclub.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../IdolFanClubManager/test_fanclub_with_mock.py" afterDir="false" />
@@ -15,7 +16,6 @@
       <change afterPath="$PROJECT_DIR$/../PythonProject01/NanumMyeongjoBold.ttf" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../PythonProject01/korean_nouns.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-5 game data searching programming #1.py" beforeDir="false" afterPath="$PROJECT_DIR$/02-5 game data searching programming #1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PythonProject01/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonProject01/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PythonProject01/.idea/pythonProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonProject01/.idea/pythonProject.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PythonProject01/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonProject01/.idea/vcs.xml" afterDir="false" />
@@ -47,21 +47,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Python.01-10 binary tree.executor&quot;: &quot;Run&quot;,
-    &quot;Python.01-2 Stack.executor&quot;: &quot;Run&quot;,
-    &quot;Python.01-7 array.executor&quot;: &quot;Run&quot;,
-    &quot;Python.02-10 game data searching programming #2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.02-2 searching information with id.executor&quot;: &quot;Run&quot;,
-    &quot;Python.02-5 game data searching programming #1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.03-2 customer sorting program.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.01-10 binary tree.executor": "Run",
+    "Python.01-2 Stack.executor": "Run",
+    "Python.01-7 array.executor": "Run",
+    "Python.02-10 game data searching programming #2.executor": "Run",
+    "Python.02-2 searching information with id.executor": "Run",
+    "Python.02-5 game data searching programming #1.executor": "Run",
+    "Python.03-12 Stable Sorting Algorithm.executor": "Run",
+    "Python.03-2 customer sorting program.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
